@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
-
 using namespace std;
+// SOLVED
 
 int main(){
     int n;
